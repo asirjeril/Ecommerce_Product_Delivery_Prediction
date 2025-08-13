@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+jupyter
+ipykernel
+pytest
+black
+isort
+flake8
+shap

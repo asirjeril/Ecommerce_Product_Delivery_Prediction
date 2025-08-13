@@ -1,0 +1,17 @@
+name: ecommerce-delivery
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - ipykernel
+  - pip
+  - pip:
+      - pytest
+      - black
+      - isort
+      - flake8
+      - shap
